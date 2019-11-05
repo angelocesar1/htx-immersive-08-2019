@@ -4,7 +4,7 @@ class Todos extends React.Component {
   render() {
     return (
       <div>
-        <h1></h1>
+        <h1>Todos</h1>
       </div>
     );
   }
